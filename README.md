@@ -1,8 +1,7 @@
 # polling-api
 
-# placement-cell
 
-<h2>placement-cell using MONGODB</h2>
+<h2>polling-api using JWT authentication</h2>
 
 <br />1)Go to the NodeJS website and download NodeJS
 
